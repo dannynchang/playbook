@@ -1,0 +1,45 @@
+/********************************************************************
+	Description: External css styling for the main page
+	Author: Danny N. Chang
+	Location: playbook/assets/css/main.css
+	Date: January 29, 2013;
+********************************************************************/
+
+#background{
+	background-color: black;
+	width: 100%;
+	height: auto;
+}
+
+#body{
+	background-color: black;
+	margin: 0;
+	width: 96%;
+}
+
+#about{
+	font-size: 16px;
+}
+
+#body-container{
+	padding: 45px 10px;
+}
+#footer{
+	position: absolute;
+	bottom: 2px;
+	width: 142px;
+}
+
+#left-col{
+	width:20%;
+}
+
+#main-play-container{
+	width: 54%;
+	padding-top: 40px;
+}
+
+#right-col{
+	float: right;
+	width: 20%;
+}
